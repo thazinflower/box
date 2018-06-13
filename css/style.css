@@ -18,3 +18,9 @@
 	margin-top: 50px;
 
 }
+.rightbox{
+	width: 100px;
+	height: 100px;
+	float:right;
+	background-color: pink;
+}
