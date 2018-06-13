@@ -18,9 +18,10 @@
 	margin-top: 50px;
 
 }
-.rightbox{
+.right-bottom-box{
 	width: 100px;
 	height: 100px;
 	float:right;
 	background-color: pink;
+	margin-top: 50px;
 }
