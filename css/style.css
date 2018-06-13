@@ -4,9 +4,17 @@
 	background-color: red;
 }
 
+
 .rightbox{
 	width: 100px;
 	height: 100px;
 	float:right;
 	background-color: yellow;
+}
+.left-bottom-box{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	margin-top: 50px;
+
 }
