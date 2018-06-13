@@ -8,20 +8,29 @@
 .rightbox{
 	width: 100px;
 	height: 100px;
-	float:right;
 	background-color: yellow;
 }
 .left-bottom-box{
 	width: 100px;
 	height: 100px;
 	background-color: green;
-	margin-top: 50px;
-
 }
 .right-bottom-box{
 	width: 100px;
 	height: 100px;
-	float:right;
 	background-color: pink;
-	margin-top: 50px;
+}
+
+.first-banner{
+	width: 50%;
+	float: left;
+}
+
+.second-banner{
+	width: 50%;
+	float: right;
+}
+
+.whole{
+	width: 100%;
 }
